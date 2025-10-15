@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/coldielb-inked-badge.png)](https://mseep.ai/app/coldielb-inked)
+
 # Inked
 
 A powerful MCP server for memory management with Claude apps. Fast, simple, and optionally enhanced with AI-powered search.
